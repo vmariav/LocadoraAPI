@@ -23,7 +23,3 @@ Este é um projeto acadêmico de uma API REST para simular uma **locadora de fil
 - Estrutura de API RESTful
 - Postman para testes (recomendado)
 
----
-
-## 📁 Estrutura de Pastas
-
