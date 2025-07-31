@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "FilmeId": 2,
+    "ClienteId": 3,
+    "DataAluguel": "2025-06-06T15:30:27.5066503-03:00",
+    "DataDevolucao": null,
+    "Status": "Alugado"
+  }
+]
